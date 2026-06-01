@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Frisskas/README.md/blob/main/449b45b8b25601ea49668470ca344cae-removebg-preview.png" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img srchttps://github.com/Frisskas/README.md/blob/main/449b45b8b25601ea49668470ca344cae-removebg-preview.png" />
   </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
