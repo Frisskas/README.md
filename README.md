@@ -1,8 +1,8 @@
 <img src = "https://github.com/Frisskas/README.md/blob/main/bannergit.jpg"/>
 
 <p align="center">
-  <a href="https://github.com/Frisskas/README.md/blob/main/449b45b8b25601ea49668470ca344cae-removebg-preview.png" target="_blank">
-    <img srchttps://github.com/Frisskas/README.md/blob/main/449b45b8b25601ea49668470ca344cae-removebg-preview.png" />
+  <a href="https://github.com/Levatei/latex-cv/tree/master/pdf" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,7 +15,7 @@
 
 <br>
 
-<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="https://github.com/Frisskas/README.md/blob/main/449b45b8b25601ea49668470ca344cae-removebg-preview.png" width="25"/> <em>About  me </em></h2>
 
 <img src="avatar.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
