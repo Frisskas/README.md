@@ -1,4 +1,4 @@
-<img src = "githubanner.png"/>
+<img src = "https://github.com/Frisskas/README.md/blob/main/bannergit.jpg"/>
 
 <p align="center">
   <a href="https://github.com/Levatei/latex-cv/tree/master/pdf" target="_blank">
